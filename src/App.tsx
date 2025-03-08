@@ -4,6 +4,7 @@ import './App.css'
 
 function App() {
   const a = '10'
+  const b = "bbb"
   return (
     <div className="App">
       <header className="App-header">
